@@ -76,23 +76,3 @@ Plataformas, repositórios da comunidade e ferramentas para otimizar sua candida
 | **GitHub - awesome-remote-job** | Lista curada de recursos para trabalho remoto. | [https://github.com/lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) |
 | **Top 100 Java Interview Questions** | Questões mais comuns para entrevistas Java (TechPrep). | [https://www.techprep.app/full-stack/java?collection=theory](https://www.techprep.app/full-stack/java?collection=theory) |
 | **Prep Coach** | Coaching e preparação para entrevistas. | [https://prep.coach/](https://prep.coach/) |
-
----
-
-## 💰 3. FINANÇAS E RECEBIMENTO INTERNACIONAL
-
-Como lidar com o câmbio, recebimento de salário e investimentos.
-
-| Recurso | Descrição | Link |
-| :--- | :--- | :--- |
-| **Higlobe Dashboard (PT-BR)** | Plataforma focada em receber pagamentos internacionais para freelancers e PJ. | [https://higlobe.com/webapp/pt-br/dashboard](https://higlobe.com/webapp/pt-br/dashboard) |
-| **XP Investimentos (Conteúdos)** | Artigos e materiais sobre investimentos e mercado financeiro. | [https://conteudos.xpi.com.br/](https://conteudos.xpi.com.br/) |
-
----
-
-**✅ Como usar:**
-
-1.  Crie um novo repositório no GitHub (ou use um existente).
-2.  Crie um arquivo chamado `README.md` (se não existir) e cole todo o código Markdown acima.
-3.  Vá em **Settings** do seu repositório e ative o **GitHub Pages** (o que tornará a página acessível via um URL simples, como `[seu-usuario].github.io/[nome-do-repo]`).
-4.  Use **ESTE ÚNICO LINK** no primeiro comentário do seu post no LinkedIn!
