@@ -14,7 +14,7 @@ O domínio do idioma é o principal requisito. Dedique tempo à conversação di
 | **Episoden - Talk in English** | Sessões de conversação estruturadas. | [https://www.episoden.com/](https://www.episoden.com/) |
 | **Promova Conversation Club** | Clube de conversação online. | [https://promova.com/conversation-club](https://promova.com/conversation-club) |
 | **Langclub** | Agendamento de sessões de clubes de idiomas.  (o meu favorito!) | [https://langclub.live/sessions](https://langclub.live/sessions) |
-| **Speaking Club - Timetable** | Tabela de horários de conversação. | [https://speakingclub.com/timetable/](https://speakingclub.com/timetable/) |
+| **Speaking Club - Timetable** | Plataforma paga de conversação. | [https://speakingclub.com/timetable/](https://speakingclub.com/timetable/) |
 | **Conversation Starters** | Tópicos e perguntas para iniciar conversas. | [https://www.conversationstarters.com/](https://www.conversationstarters.com/) |
 | **Conversation Questions (I-TESL-J)** | Mais tópicos para debate. | [http://iteslj.org/questions/](http://iteslj.org/questions/) |
 
