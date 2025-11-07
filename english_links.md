@@ -27,7 +27,7 @@ Ferramentas para feedback e clareza na fala.
 | **Youglish** | Como falantes nativos pronunciam palavras em vídeos reais. | [https://youglish.com/](https://youglish.com/) |
 | **Speechace** | Avaliação de pronúncia com score e feedback de IA. | [https://speak.speechace.co/placement/](https://speak.speechace.co/placement/) |
 | **San Diego Voice and Accent** | Curso introdutório de voz e sotaque. | [https://courses.sandiegovoiceandaccent.com/courses/take/english-pro-lite/lessons/58382778-start-here](https://courses.sandiegovoiceandaccent.com/courses/take/english-pro-lite/lessons/58382778-start-here) |
-| **Accent Advisor** | Ferramenta para prática e aprimoramento de sotaque. | [https://account.accentadvisor.com/](https://account.accentadvisor.com/) |
+| **Accent Advisor** | Escola com foco em redução de sotaque. | [https://account.accentadvisor.com/](https://account.accentadvisor.com/) |
 
 ### 📖 Sub-Seção: Exercícios e Gramática
 
